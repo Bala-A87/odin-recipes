@@ -9,3 +9,6 @@ Demonstrates knowledge of the following HTML tags (besides essential ones):
 - a, img
 
 View the website <a href="https://bala-a87.github.io/odin-recipes/">here</a>!
+
+## Later additions/updates:
+- Added basic CSS (fonts, alignment, colors), Jan 14 2023
