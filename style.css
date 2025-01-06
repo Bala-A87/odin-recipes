@@ -1,0 +1,12 @@
+p, li {
+    font-size: 22px;
+}
+
+.central {
+    text-align: center;
+    background-color: #80808080;
+}
+
+.description {
+    font-family:'Courier New', Courier, monospace;
+}
